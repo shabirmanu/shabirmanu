@@ -17,8 +17,16 @@ jobs:
       - name: Generate Snake Graph
         uses: Platane/snk@v3
         with:
-          github_user_name: "${{ github.repository_owner }}"
+          github_user_name: "shabirmanu"
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit and Push to output branch
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add dist/
+          git commit -m "Add generated snake graph"
+          git push origin HEAD:output
