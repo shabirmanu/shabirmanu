@@ -20,19 +20,19 @@
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 <a href="https://scholar.google.com/citations?user=cRvUkbUAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GoogleScholar-%230077B5.svg?&style=for-the-badge&logo=GoogleScholar&logoColor=white" alt="ResearchGate"/>
+    <img src="https://img.shields.io/badge/GoogleScholar-%230077B5.svg?&style=for-the-badge&logo=GoogleScholar&logoColor=white" alt="Google Scholar"/>
 </a>
 <a href="https://www.researchgate.net/profile/Shabir-Ahmad-19" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20RG-%230077B5.svg?&style=for-the-badge&logo=RG&logoColor=white" alt="ResearchGate"/>
+    <img src="https://img.shields.io/badge/ResearchGate-%230077B5.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=shabirmanu&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+  <img src="https://raw.githubusercontent.com/shabirmanu/shabirmanu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/shabirmanu/shabirmanu/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
@@ -58,6 +58,9 @@
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
+  <img src="https://img.shields.io/badge/Drupal-20232A?style=for-the-badge&logo=drupal&logoColor=61DAFB" alt="Drupal"/>
+  <img src="https://img.shields.io/badge/Pytorch-20232A?style=for-the-badge&logo=pytorch&logoColor=61DAFB" alt="Pytorch"/>
+  <img src="https://img.shields.io/badge/StableBaseline-20232A?style=for-the-badge&logo=stable-baseline&logoColor=61DAFB" alt="Pytorch"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
