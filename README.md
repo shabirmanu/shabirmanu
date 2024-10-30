@@ -1,13 +1,13 @@
 <h2>Shabir Ahmad, PhD</h2>
 <h3>Software Engineer | Researcher | Academician | IEEE Senior Member</h3>
-
-<div align="center">
+<div style="overflow:hidden">
+<div align="center" style="float:left; width:50%;">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I'm a Software Engineering specialist at Python with originally from Pakistan but migrated and settled in South Korea, specializing in bringing latest research ideas into reality. My technical range is broad, covering everything from cloud platforms and containerization to AI and Machine learning.</p>
 </div>
 
-<div align="center">
+<div align="center" style="float:left; width:50%;">
     <h2>👾 Research Interests</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>Currently, my research interests are more aligned to investigating Generative AI and Large Language Models to use it in medical domain. The use of vision models such as YOLO to detect or segment certain diseases can be aided with an extra layer of LLM to generate the relavent details such as severity, prescription, to name a few. I am open to submitting research proposals in collaborations</p>
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Medical Imaging-0A0A0A?style=for-the-badge" alt="Computer Vision"/>
     
 </div>
+<div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
