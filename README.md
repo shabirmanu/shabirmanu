@@ -9,13 +9,13 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Gitghub. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<p> To connect with me and explore possible research or networking opportunity, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Github. Feel free to reach out for research collaborations, opportunities, or just to exchange ideas about the latest trends in AI and LLM for IoT. Let's innovate together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/drupalsoftwareengr">
-    <img src="https://img.shields.io/badge/Shabir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <a href="https://github.com/shabirmanu" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=black" alt="GitHub Skyline"/>
 </a>
 <a href="https://scholar.google.com/citations?user=cRvUkbUAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/GoogleScholar-%230077B5.svg?&style=for-the-badge&logo=GoogleScholar&logoColor=white" alt="Google Scholar"/>
