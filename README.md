@@ -11,6 +11,12 @@
     <h2>👾 Research Interests</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>Currently, my research interests are more aligned to investigating Generative AI and Large Language Models to use it in medical domain. The use of vision models such as YOLO to detect or segment certain diseases can be aided with an extra layer of LLM to generate the relavent details such as severity, prescription, to name a few. I am open to submitting research proposals in collaborations</p>
+    <img src="https://img.shields.io/badge/Internet of Things-3776AB?style=for-the-badge&logo=iot&logoColor=white" alt="Internet of things"/>
+  <img src="https://img.shields.io/badge/Reinforcement Learning-F7DF1E?style=for-the-badge&logo=reinforcementlearning&logoColor=black" alt="Reinforcement Learning"/>
+  <img src="https://img.shields.io/badge/LLM-007396?style=for-the-badge&logo=java&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/Metaverse-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Metaverse"/>
+  <img src="https://img.shields.io/badge/Medical Imaging-0A0A0A?style=for-the-badge" alt="Computer Vision"/>
+    
 </div>
 
 <div align="center">
