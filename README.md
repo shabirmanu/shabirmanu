@@ -8,6 +8,12 @@
 </div>
 
 <div align="center">
+    <h2>👾 Research Interests</h2>
+<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
+    <p>Currently, my research interests are more aligned to investigating Generative AI and Large Language Models to use it in medical domain. The use of vision models such as YOLO to detect or segment certain diseases can be aided with an extra layer of LLM to generate the relavent details such as severity, prescription, to name a few. I am open to submitting research proposals in collaborations</p>
+</div>
+
+<div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me and explore possible research or networking opportunity, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Github. Feel free to reach out for research collaborations, opportunities, or just to exchange ideas about the latest trends in AI and LLM for IoT. Let's innovate together! </p>
 <div align="center">
@@ -29,7 +35,6 @@
 <div align="center">
   <h2>🚀 Github Commits</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-    ![GitHub Snake Animation](https://raw.githubusercontent.com/shabirmanu/shabirmanu/output/dist/github-snake.svg)
 
   <img src="https://raw.githubusercontent.com/shabirmanu/shabirmanu/output/dist/github-snake.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/shabirmanu/shabirmanu/output/dist/github-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
@@ -43,7 +48,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/PHP-00ADD8?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/DART-00ADD8?style=for-the-badge&logo=dart&logoColor=white" alt="DART"/>
+  <img src="https://img.shields.io/badge/C/C++-00ADD8?style=for-the-badge&cpp=php&logoColor=white" alt="C/C++"/>
 
 </div>
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
@@ -58,16 +65,16 @@
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Drupal-20232A?style=for-the-badge&logo=drupal&logoColor=61DAFB" alt="Drupal"/>
+  
   <img src="https://img.shields.io/badge/Pytorch-20232A?style=for-the-badge&logo=pytorch&logoColor=61DAFB" alt="Pytorch"/>
-  <img src="https://img.shields.io/badge/StableBaseline-20232A?style=for-the-badge&logo=stable-baseline&logoColor=61DAFB" alt="Pytorch"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/StableBaseline-20232A?style=for-the-badge&logo=stable-baseline&logoColor=61DAFB" alt="StableBaseline"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/OpenCV-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/OpenAIGym-FF6F00?style=for-the-badge&logo=openaigym&logoColor=white" alt="OpenAIGym"/>
+  <img src="https://img.shields.io/badge/Drupal-20232A?style=for-the-badge&logo=drupal&logoColor=61DAFB" alt="Drupal"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -75,13 +82,6 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
 </div>
 
-<h2 align="center" class="section-heading">👾 Metaverse</h2>
-<p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
-</div>
 
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
